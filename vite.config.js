@@ -6,5 +6,6 @@ export default defineConfig({
   base: '/ollivanders/',
   build: {
     outDir: 'dist'
-  }
+  },
+  publicDir: 'public'
 })
